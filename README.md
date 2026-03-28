@@ -56,7 +56,6 @@ Software: LibreOffice
 ├── script4_log_analyzer.sh            ← Log File Analyzer
 └── script5_manifesto_generator.sh     ← Open Source Manifesto Generator
 
-
 Path	Description
 README.md	Root-level project documentation with setup, run instructions, and script descriptions
 scripts/	Contains all five shell scripts required by the assignment
